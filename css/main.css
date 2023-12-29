@@ -102,6 +102,8 @@
     height: 150vh;
     opacity: 0;
     transition: all 3s;
+
+    overflow: hidden;
 }
 
 #men>.row,
